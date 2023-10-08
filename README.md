@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Hubei Normal University
+- 🌱 I’m currently learning Android App development
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with development Android App
+- 💬 Ask me about how to fix a computer
+- 📫 How to reach me: QQ1361016116
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I love computer science, but my math is absolutely weak.
 <!--
 **shicheng1101/shicheng1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
